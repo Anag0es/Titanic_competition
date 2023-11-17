@@ -1,6 +1,8 @@
-# Competição Titanic - Kaggle 🎵
+# Competição Titanic - Kaggle 🔷
+Modelo preditivo - classificação
+
 Este projeto é o uso do machine learning para a predição de quais passageiros sobreviveram ao naufrágio do Titanic. 
-O projeto se baseia no dataset disponível no Kaggle e no projeto de referência que realiza uma análise exploratória dos dados. O objetivo é desenvolver os conhecimentos em python e em técnicas de análise de dados, bem como aplicar a metodologia CRISP-DM para criar um modelo preditivo.
+O projeto se baseia no dataset disponível no Kaggle e no projeto de referência que utiliza o random forest classifier e o logistic regression. O objetivo é desenvolver os conhecimentos em python e em técnicas de análise de dados, bem como aplicar a metodologia CRISP-DM para criar um modelo preditivo.
 
 ## Funcionalidades Principais 🚀
 - Modelo preditivo de classificação 📊
@@ -14,7 +16,7 @@ Para usar este projeto, você precisará:
 - Conhecimento básico de python e análise de dados 🔬
   
 ## Status do Projeto 🌱
-O projeto está em desenvolvimento ativo. 
+O projeto foi concluído, mas é atualizado conforme o conhecimento da autora avança.🧠
 
 ## Contribuições 🤝
 Contribuições são bem-vindas! Se você encontrar problemas, bugs ou tiver sugestões de melhorias, fique à vontade para abrir issues neste repositório. Se você deseja contribuir com código, crie uma solicitação pull e eu ficarei feliz em analisar.
